@@ -2,6 +2,7 @@
 
 ## Purpose
 Develop an LSTM model that translates French words to English words.
+- (Stretch) translate English tweets to Spanish
 
 ## Process
 - Retrieve data
