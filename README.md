@@ -12,3 +12,6 @@ Develop an LSTM model that translates French words to English words.
 
 ### Packages
 - TensorFlow, Keras, Pandas, Numpy, Scikit-Learn, Matplotlib
+
+### Data
+The data can be found at http://www.manythings.org/anki/
